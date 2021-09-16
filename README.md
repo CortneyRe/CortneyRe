@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @CortneyRe
-- 👀 I’m interested in mastering Java and learning Python and Ruby
+- 👀 I’m interested in learning C#, Python, and Ruby
 - 🌱 I’m currently keeping my Java skills sharp and perfecting my knowledge of Vue
 - 💞️ I’m looking to collaborate on my side project- _I'm looking to make a digital worry box 🗳_
 
