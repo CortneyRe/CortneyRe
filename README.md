@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @CortneyRe
-- 👀 I’m interested in learning C#, Python, and Ruby
-- 🌱 I’m currently keeping my Java skills sharp and perfecting my knowledge of Vue
-- 💞️ I’m looking to collaborate on my side project- _I'm looking to make a digital worry box 🗳_
-
+- 👀 I’m interested in learning COBOL and Go
+- 🌱 I’m currently keeping my C#, Java, and Ruby skills sharp and perfecting my knowledge of Vue, C#, and Powershell, Python, and TypeScript
+- 💞️ I’m brainstorming a side project- _I'm looking to make a digital worry box 🗳_
 
 <!---
 - 📫 How to reach me ...
